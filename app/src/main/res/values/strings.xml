@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notification Fix</string>
+    <string name="app_instructions">This app is designed to fix an issue where the notifications and/or the bottom navigation bar are not responding properly on your SafeTelecom phone.\n\nThis issue happens when you run out of space on your phone.\n\nTo ensure that this fix applies properly, you must free up space on your phone by deleting some files.\n\nWhen you are finished freeing up space, please press the button below to apply the fix.</string>
+    <string name="apply_fix">Apply Fix</string>
+</resources>

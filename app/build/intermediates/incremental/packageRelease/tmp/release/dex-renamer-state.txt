@@ -1,0 +1,4 @@
+#Wed Oct 23 00:52:42 EDT 2019
+base.0=/home/elisam98/code/NotificationFix/app/build/intermediates/dex/release/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

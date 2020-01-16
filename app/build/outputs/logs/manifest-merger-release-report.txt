@@ -1,0 +1,136 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/77f9e090d44d18bd12907b9e5c6be465/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/elisam98/.gradle/caches/transforms-2/files-2.1/1b930c4387f865ad4debf36ab76de6dc/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/59ed52d78b93c7e9e4f7e98cf822aa07/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/1ff880f0a471b20c3349f2afabe933f8/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/7bde189d166dd2f24d95ae3a5f6c9a47/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/2c97a1b10c159686abb4756f3e63a6b4/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/b07ccec231f05e02106788bbb76054fb/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/170766d612c22fd87ca848a8b67ec6dd/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/a7b9113b8a2914ec7a0b740e8c60f173/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/6e9839e2e2d52d93bbe8e5af7894addd/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/1a59e3ea9303bfe2cfbdda2be091a219/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/8a1d947778c3b1f80abb56b30c93207c/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/9636399b2eba3ed2442de20c1e541d81/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/9c003740c03dd9557789d27fef1973e1/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/acedd1c6aea5715b5c65df64ef1df353/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/5a0fdea61a784d12c3a95afc58e6b26d/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/e2e7a5c50afab04129d0b8f60b60c578/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/12cc80bd1a2724b9ae80c4d320885809/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/f1b9d4e5ef841f9047e9f9c3887bd56a/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/8e39f3ea582a0af84a7122d217e62d06/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/3f8f952b601e25afffda4e4703b46594/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml
+		INJECTED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml
+		ADDED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml
+		ADDED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/elisam98/.gradle/caches/transforms-2/files-2.1/1b930c4387f865ad4debf36ab76de6dc/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/elisam98/.gradle/caches/transforms-2/files-2.1/1b930c4387f865ad4debf36ab76de6dc/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/8a1d947778c3b1f80abb56b30c93207c/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/8a1d947778c3b1f80abb56b30c93207c/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/9c003740c03dd9557789d27fef1973e1/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/9c003740c03dd9557789d27fef1973e1/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/8a1d947778c3b1f80abb56b30c93207c/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml:11:9-40
+activity#net.safetelecom.notificationfix.MainActivity
+ADDED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml
+INJECTED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/77f9e090d44d18bd12907b9e5c6be465/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/77f9e090d44d18bd12907b9e5c6be465/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/elisam98/.gradle/caches/transforms-2/files-2.1/1b930c4387f865ad4debf36ab76de6dc/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/elisam98/.gradle/caches/transforms-2/files-2.1/1b930c4387f865ad4debf36ab76de6dc/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/59ed52d78b93c7e9e4f7e98cf822aa07/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/59ed52d78b93c7e9e4f7e98cf822aa07/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/1ff880f0a471b20c3349f2afabe933f8/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/1ff880f0a471b20c3349f2afabe933f8/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/7bde189d166dd2f24d95ae3a5f6c9a47/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/7bde189d166dd2f24d95ae3a5f6c9a47/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/2c97a1b10c159686abb4756f3e63a6b4/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/2c97a1b10c159686abb4756f3e63a6b4/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/b07ccec231f05e02106788bbb76054fb/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/b07ccec231f05e02106788bbb76054fb/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/170766d612c22fd87ca848a8b67ec6dd/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/170766d612c22fd87ca848a8b67ec6dd/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/a7b9113b8a2914ec7a0b740e8c60f173/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/a7b9113b8a2914ec7a0b740e8c60f173/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/6e9839e2e2d52d93bbe8e5af7894addd/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/6e9839e2e2d52d93bbe8e5af7894addd/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/1a59e3ea9303bfe2cfbdda2be091a219/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/1a59e3ea9303bfe2cfbdda2be091a219/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/8a1d947778c3b1f80abb56b30c93207c/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/8a1d947778c3b1f80abb56b30c93207c/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/9636399b2eba3ed2442de20c1e541d81/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/9636399b2eba3ed2442de20c1e541d81/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/9c003740c03dd9557789d27fef1973e1/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/9c003740c03dd9557789d27fef1973e1/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/acedd1c6aea5715b5c65df64ef1df353/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/acedd1c6aea5715b5c65df64ef1df353/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/5a0fdea61a784d12c3a95afc58e6b26d/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/5a0fdea61a784d12c3a95afc58e6b26d/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/e2e7a5c50afab04129d0b8f60b60c578/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/e2e7a5c50afab04129d0b8f60b60c578/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/12cc80bd1a2724b9ae80c4d320885809/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/12cc80bd1a2724b9ae80c4d320885809/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/f1b9d4e5ef841f9047e9f9c3887bd56a/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/f1b9d4e5ef841f9047e9f9c3887bd56a/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/8e39f3ea582a0af84a7122d217e62d06/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/8e39f3ea582a0af84a7122d217e62d06/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/3f8f952b601e25afffda4e4703b46594/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/elisam98/.gradle/caches/transforms-2/files-2.1/3f8f952b601e25afffda4e4703b46594/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml
+INJECTED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml
+		ADDED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml
+		INJECTED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml
+		ADDED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml
+		INJECTED from /home/elisam98/code/NotificationFix/app/src/main/AndroidManifest.xml
